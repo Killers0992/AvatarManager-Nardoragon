@@ -12,5 +12,428 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 069e0717be408a94e8b81b276e042ef3, type: 3}
   m_Name: Storage
   m_EditorClassIdentifier: 
-  Accessories: []
-  Customizations: []
+  Accessories:
+  - Name: Hoodie
+    Type: 1
+    Location: 52
+    Category: Expanded Nardoragon
+    Author: Nardo
+    WebsiteUrl: https://nardoiri.gumroad.com/l/Nardoragon
+    Icon: {fileID: 2800000, guid: 33cc5063c81adcf41af14885534998aa, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: -6437923277489693469, guid: 641bfc40d44752847af6c282e3b6801d, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 7a9606cb625ecf14cb85b3f886fe7c8f, type: 2}
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes:
+    - BlendshapeName: Hide Fluff Chest
+      BlendshapeValue: 100
+      UsePrevValueThanDefault: 0
+      DefaultValue: 0
+      PrevBlendshapeValue: 0
+      Condition: 0
+      InvertValueIfConditionNotPassed: 0
+      TargetAccessory: 0
+      TargetBlendShape: 
+      TargetLocation: 0
+      TargetBlendShapeValue: 0
+    - BlendshapeName: Hood Off
+      BlendshapeValue: 100
+      UsePrevValueThanDefault: 0
+      DefaultValue: 0
+      PrevBlendshapeValue: 0
+      Condition: 0
+      InvertValueIfConditionNotPassed: 0
+      TargetAccessory: 0
+      TargetBlendShape: 
+      TargetLocation: 0
+      TargetBlendShapeValue: 0
+    - BlendshapeName: Hide Fluff Back
+      BlendshapeValue: 100
+      UsePrevValueThanDefault: 0
+      DefaultValue: 0
+      PrevBlendshapeValue: 0
+      Condition: 0
+      InvertValueIfConditionNotPassed: 0
+      TargetAccessory: 0
+      TargetBlendShape: 
+      TargetLocation: 0
+      TargetBlendShapeValue: 0
+    - BlendshapeName: Hide Fluff Neck
+      BlendshapeValue: 100
+      UsePrevValueThanDefault: 0
+      DefaultValue: 0
+      PrevBlendshapeValue: 0
+      Condition: 0
+      InvertValueIfConditionNotPassed: 0
+      TargetAccessory: 0
+      TargetBlendShape: 
+      TargetLocation: 0
+      TargetBlendShapeValue: 0
+    - BlendshapeName: Hide Fluff Elbow
+      BlendshapeValue: 100
+      UsePrevValueThanDefault: 0
+      DefaultValue: 0
+      PrevBlendshapeValue: 100
+      Condition: 0
+      InvertValueIfConditionNotPassed: 0
+      TargetAccessory: 0
+      TargetBlendShape: 
+      TargetLocation: 0
+      TargetBlendShapeValue: 0
+    - BlendshapeName: Expand Sleeves - Warmers On
+      BlendshapeValue: 100
+      UsePrevValueThanDefault: 0
+      DefaultValue: 0
+      PrevBlendshapeValue: 0
+      Condition: 0
+      InvertValueIfConditionNotPassed: 0
+      TargetAccessory: 0
+      TargetBlendShape: 
+      TargetLocation: 0
+      TargetBlendShapeValue: 0
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Shorts
+    Type: 1
+    Location: 192
+    Category: Expanded Nardoragon
+    Author: Nardo
+    WebsiteUrl: https://nardoiri.gumroad.com/l/Nardoragon
+    Icon: {fileID: 2800000, guid: ca3b608afb65e714bb0b53de6e998f30, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: -1807140829557154294, guid: cd3715f8cdca0964fb01cf9270f7a285, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: ed0dbdc14cb8ac04fbc9eee998d9cce4, type: 2}
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes:
+    - BlendshapeName: Shorts On
+      BlendshapeValue: 100
+      UsePrevValueThanDefault: 0
+      DefaultValue: 0
+      PrevBlendshapeValue: 0
+      Condition: 0
+      InvertValueIfConditionNotPassed: 0
+      TargetAccessory: 0
+      TargetBlendShape: 
+      TargetLocation: 0
+      TargetBlendShapeValue: 0
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Warmers
+    Type: 1
+    Location: 0
+    Category: Expanded Nardoragon
+    Author: Nardo
+    WebsiteUrl: https://nardoiri.gumroad.com/l/Nardoragon
+    Icon: {fileID: 2800000, guid: 7f1af61df688b0649a56422f0559b34f, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: -2501489627991072002, guid: 6449856cfe82af846829c3cddc7d2aa3, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: dd0c890987cc1784db23df4ce49811c4, type: 2}
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes:
+    - BlendshapeName: Hide Arm Warmer Left
+      BlendshapeValue: 100
+      UsePrevValueThanDefault: 0
+      DefaultValue: 0
+      PrevBlendshapeValue: 0
+      Condition: 3
+      InvertValueIfConditionNotPassed: 0
+      TargetAccessory: 0
+      TargetBlendShape: 
+      TargetLocation: 4
+      TargetBlendShapeValue: 0
+    - BlendshapeName: Hide Arm Warmer Right
+      BlendshapeValue: 100
+      UsePrevValueThanDefault: 0
+      DefaultValue: 0
+      PrevBlendshapeValue: 0
+      Condition: 3
+      InvertValueIfConditionNotPassed: 0
+      TargetAccessory: 0
+      TargetBlendShape: 
+      TargetLocation: 4
+      TargetBlendShapeValue: 0
+    - BlendshapeName: Hide Fluff Elbow
+      BlendshapeValue: 100
+      UsePrevValueThanDefault: 0
+      DefaultValue: 0
+      PrevBlendshapeValue: 0
+      Condition: 4
+      InvertValueIfConditionNotPassed: 0
+      TargetAccessory: 0
+      TargetBlendShape: 
+      TargetLocation: 4
+      TargetBlendShapeValue: 0
+    - BlendshapeName: Expand Shorts - Warmers On
+      BlendshapeValue: 100
+      UsePrevValueThanDefault: 0
+      DefaultValue: 0
+      PrevBlendshapeValue: 0
+      Condition: 3
+      InvertValueIfConditionNotPassed: 0
+      TargetAccessory: 0
+      TargetBlendShape: 
+      TargetLocation: 128
+      TargetBlendShapeValue: 0
+    - BlendshapeName: Hide Fluff Heel
+      BlendshapeValue: 100
+      UsePrevValueThanDefault: 0
+      DefaultValue: 0
+      PrevBlendshapeValue: 0
+      Condition: 0
+      InvertValueIfConditionNotPassed: 0
+      TargetAccessory: 0
+      TargetBlendShape: 
+      TargetLocation: 0
+      TargetBlendShapeValue: 0
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  Customizations:
+  - Name: Hide Eyebrows
+    Category: Eyes
+    BlendshapeName: Hide Eyebrows
+  - Name: Hide Specular Eyes
+    Category: Eyes
+    BlendshapeName: Hide Spec Eyes
+  - Name: Hide Shiny Eyes
+    Category: Eyes
+    BlendshapeName: Hide Shiny
+  - Name: Hide Shiny Eyes 2
+    Category: Eyes
+    BlendshapeName: Hide Shiny 2
+  - Name: Pupils Narrow
+    Category: Eyes
+    BlendshapeName: Pupils Narrow
+  - Name: Alternative Face
+    Category: Face
+    BlendshapeName: Face Alt
+  - Name: Chin Spikes
+    Category: Face
+    BlendshapeName: Chin Spikes
+  - Name: Forked Tongue
+    Category: Face
+    BlendshapeName: Forked Tongue
+  - Name: Hide Fluff Checks
+    Category: Face
+    BlendshapeName: Hide Fluff Checks
+  - Name: Hide Teeth
+    Category: Mouth
+    BlendshapeName: Hide Teeth
+  - Name: Hide Gums
+    Category: Mouth
+    BlendshapeName: Hide Gums
+  - Name: Teeth Size
+    Category: Mouth
+    BlendshapeName: Teeth Size
+  - Name: Teeth Fangs
+    Category: Mouth
+    BlendshapeName: Teeth Fangs
+  - Name: Teeth Fangs 2
+    Category: Mouth
+    BlendshapeName: Teeth Fangs 2
+  - Name: Teeth Fangs Left
+    Category: Mouth
+    BlendshapeName: Teeth Fangs Left
+  - Name: Teeth Fangs Right
+    Category: Mouth
+    BlendshapeName: Teeth Fangs Right
+  - Name: Alternative Teeth
+    Category: Mouth
+    BlendshapeName: Teeth Alt
+  - Name: Teeth Lips
+    Category: Face
+    BlendshapeName: Teeth Lips
+  - Name: Teeth Lips 2
+    Category: Face
+    BlendshapeName: Teeth Lips 2
+  - Name: Hide Nostrils
+    Category: Face
+    BlendshapeName: Hide Nostrils
+  - Name: Hide Hair
+    Category: Head
+    BlendshapeName: Hide Hair
+  - Name: Hide Fluff
+    Category: Head
+    BlendshapeName: Hide Fluff Head
+  - Name: Hide Fluff Neck
+    Category: Head
+    BlendshapeName: Hide Fluff Neck
+  - Name: Hide Fluff Ears
+    Category: Head
+    BlendshapeName: Hide Fluff Ears
+  - Name: Hide Horns
+    Category: Head
+    BlendshapeName: Hide Horns
+  - Name: Alterantive Horns
+    Category: Head
+    BlendshapeName: Horns Alt
+  - Name: Alterantive Horns 2
+    Category: Head
+    BlendshapeName: Horns Alt 2
+  - Name: Fluff Thickness
+    Category: Body
+    BlendshapeName: Fluff Thick
+  - Name: Hide Fluff Elbow
+    Category: Arms
+    BlendshapeName: Hide Fluff Elbow
+  - Name: Thickness
+    Category: Arms
+    BlendshapeName: Arm Thick
+  - Name: Hide Fluff
+    Category: Chest
+    BlendshapeName: Hide Fluff Chest
+  - Name: Torso Thickness
+    Category: Chest
+    BlendshapeName: Torso Thick
+  - Name: Breasts Thickness
+    Category: Chest
+    BlendshapeName: Breasts Thick
+  - Name: Breasts Thickness 2
+    Category: Chest
+    BlendshapeName: Breasts Thick 2
+  - Name: Breasts Round
+    Category: Chest
+    BlendshapeName: Breasts Round
+  - Name: Thickness
+    Category: Belly
+    BlendshapeName: Belly Thick
+  - Name: Thickness
+    Category: Hips
+    BlendshapeName: Hips Thick
+  - Name: Thickness
+    Category: Tail
+    BlendshapeName: Tail Thick
+  - Name: Gluteus Thickness
+    Category: Body
+    BlendshapeName: Gluteus Thick
+  - Name: Thickness
+    Category: Legs
+    BlendshapeName: Leg Thick
+  - Name: Hide Fluff Heel
+    Category: Legs
+    BlendshapeName: Hide Fluff Heel
+  - Name: Chumby
+    Category: Body
+    BlendshapeName: Chumby
+  - Name: All
+    Category: Female
+    BlendshapeName: Female All
+  - Name: Head
+    Category: Female
+    BlendshapeName: Female Head
+  - Name: Arms
+    Category: Female
+    BlendshapeName: Female Arms
+  - Name: Breasts Legacy
+    Category: Female
+    BlendshapeName: Female Breasts Legacy
+  - Name: Breasts
+    Category: Female
+    BlendshapeName: Female Breasts
+  - Name: Waist
+    Category: Female
+    BlendshapeName: Female Waist
+  - Name: Legs
+    Category: Female
+    BlendshapeName: Female Legs
+  - Name: Thichkness
+    Category: Hands
+    BlendshapeName: Hand Thick
+  - Name: Claws Expanded
+    Category: Hands
+    BlendshapeName: Hand Claws Expanded
+  - Name: Claws Contracted
+    Category: Hands
+    BlendshapeName: Hand Claws Contracted
+  - Name: Hide Claws Left
+    Category: Hands
+    BlendshapeName: Hide Hand Claws Left
+  - Name: Hide Claws Right
+    Category: Hands
+    BlendshapeName: Hide Hand Claws Right
+  - Name: Hide Claws Right
+    Category: Hands
+    BlendshapeName: Hide Hand Claws Right
+  - Name: Hide Claws Right
+    Category: Hands
+    BlendshapeName: Hide Hand Claws Right
+  - Name: Hide Claws Right
+    Category: Hands
+    BlendshapeName: Hide Hand Claws Right
+  - Name: Legacy
+    Category: Hands
+    BlendshapeName: Hand Legacy
+  - Name: Beans Thickness
+    Category: Hands
+    BlendshapeName: Hand Beans Thick
+  - Name: Hide Beans Left
+    Category: Hands
+    BlendshapeName: Hide Hand Beans Left
+  - Name: Hide Beans Right
+    Category: Hands
+    BlendshapeName: Hide Hand Beans Right
+  - Name: Thickness
+    Category: Feets
+    BlendshapeName: Feet Thick
+  - Name: Alternative Feets
+    Category: Feets
+    BlendshapeName: Feet Alt
+  - Name: Beans Thickness
+    Category: Feets
+    BlendshapeName: Feet Beans Thick
+  - Name: Beans Thickness 2
+    Category: Feets
+    BlendshapeName: Feet Beans Thick 2
+  - Name: Claws Expanded
+    Category: Feets
+    BlendshapeName: Feet Claws Expanded
+  - Name: Claws Contracted
+    Category: Feets
+    BlendshapeName: Feet Claws Contracted
+  - Name: Toe Grab Left
+    Category: Feets
+    BlendshapeName: Toe Grab Left
+  - Name: Toe Grab Right
+    Category: Feets
+    BlendshapeName: Toe Grab Right
+  - Name: Hide Fluff
+    Category: Back
+    BlendshapeName: Hide Fluff Back
+  - Name: Hide Fluff
+    Category: Tail
+    BlendshapeName: Hide Fluff Base Tail
+  - Name: Hide Fluff 2
+    Category: Tail
+    BlendshapeName: Hide Fluff Base Tail 2
+  - Name: Hide Fluff Tip
+    Category: Tail
+    BlendshapeName: Hide Fluff Tip

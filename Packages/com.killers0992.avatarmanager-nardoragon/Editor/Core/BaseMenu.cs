@@ -148,11 +148,14 @@ namespace AvatarManager.Core
             {
                 string name = Path.GetFileNameWithoutExtension(scene);
 
-                if (!name.StartsWith(FilterScenePrefix)) continue;
+
+                if (!string.IsNullOrEmpty(FilterScenePrefix) && !name.StartsWith(FilterScenePrefix)) continue;
 
                 int num = choices.Count + 1;
 
-                string finalName = $"{num} | " + name.Replace(FilterScenePrefix, string.Empty).Trim();
+                string nameFix = string.IsNullOrEmpty(FilterScenePrefix) ? name : name.Replace(FilterScenePrefix, string.Empty);
+
+                string finalName = $"{num} | " + nameFix.Trim();
 
                 choices.Add(finalName);
                 paths.Add(scene);

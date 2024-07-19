@@ -15,12 +15,14 @@ MonoBehaviour:
   Title: Nardoragon
   MinSize: {x: 1400, y: 600}
   MaxSize: {x: 1400, y: 600}
-  FilterScenePrefix: Nardoragon
+  FilterScenePrefix: 
   MenuAsset: {fileID: 9197481963319205126, guid: 9baadae23d1d456468f492249831e865, type: 3}
   ButtonAsset: {fileID: 9197481963319205126, guid: 5d4bfa73c86375641860fa2c9c924b31, type: 3}
   AvatarModelFbxs:
-  - {fileID: 2959467708922500008, guid: 6fd12daa1ce7f4d4ca98487bad74ff3c, type: 3}
-  - {fileID: 2959467708922500008, guid: 0234c395d6a589c4782e3b6f3fd78df4, type: 3}
+  - {fileID: 2959467708922500008, guid: cad94995bb6a78846978fb21ad9ccc26, type: 3}
+  - {fileID: 2959467708922500008, guid: eb8855708951e4c45b263474ebb8b4e1, type: 3}
+  - {fileID: 2959467708922500008, guid: a612e8626c12561429c6bb277dbde914, type: 3}
+  - {fileID: 2959467708922500008, guid: 0ee216bc5b32fb54681f54e62c5b6b8f, type: 3}
   Pages:
   - {fileID: 11400000, guid: 5d703ad17f0c9f744a3779372f5d78e5, type: 2}
   - {fileID: 11400000, guid: 37c2c8d001e1aa24985eeca27ab86c9e, type: 2}
