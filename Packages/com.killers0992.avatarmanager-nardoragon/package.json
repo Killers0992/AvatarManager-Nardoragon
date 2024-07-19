@@ -1,0 +1,16 @@
+{
+  "name": "com.killers0992.avatarmanager-nardoragon",
+  "displayName": "Avatar Manager - Nardoragon",
+  "version": "1.0.0",
+  "description": "Tool made for managing avatars.",
+  "unity": "2022.3",
+  "vrchatVersion": "2022.1.1",
+  "author": {
+    "name": "Killers0992",
+    "email": "killers0992@gmail.com",
+    "url": "https://killers.dev"
+  },
+  "dependencies": {
+    "com.unity.editorcoroutines": "1.0.0"
+  }
+}
