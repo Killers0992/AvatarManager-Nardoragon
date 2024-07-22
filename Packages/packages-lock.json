@@ -1,5 +1,14 @@
 {
   "dependencies": {
+    "com.killers0992.avatarmanager": {
+      "version": "https://github.com/Killers0992/AvatarManager.git?path=/Packages/com.killers0992.avatarmanager#1.0.0",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.editorcoroutines": "1.0.0"
+      },
+      "hash": "68cbd2259b203d2698f3365a0f2e98ebd4a12956"
+    },
     "com.killers0992.avatarmanager-nardoragon": {
       "version": "file:com.killers0992.avatarmanager-nardoragon",
       "depth": 0,

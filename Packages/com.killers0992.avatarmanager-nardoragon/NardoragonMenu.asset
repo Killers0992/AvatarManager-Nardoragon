@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: NardoragonMenu
   m_EditorClassIdentifier: 
   Title: Nardoragon
+  TitleColor: {r: 0, g: 0.85353756, b: 1, a: 0}
   MinSize: {x: 1400, y: 600}
   MaxSize: {x: 1400, y: 600}
   FilterScenePrefix: 
