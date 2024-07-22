@@ -13,12 +13,14 @@ MonoBehaviour:
   m_Name: NardoragonMenu
   m_EditorClassIdentifier: 
   Title: Nardoragon
-  TitleColor: {r: 0, g: 0.85353756, b: 1, a: 0}
+  TitleColor: {r: 0, g: 0.85353756, b: 1, a: 1}
   MinSize: {x: 1400, y: 600}
   MaxSize: {x: 1400, y: 600}
   FilterScenePrefix: 
-  MenuAsset: {fileID: 9197481963319205126, guid: 9baadae23d1d456468f492249831e865, type: 3}
-  ButtonAsset: {fileID: 9197481963319205126, guid: 5d4bfa73c86375641860fa2c9c924b31, type: 3}
+  MenuAsset: {fileID: 9197481963319205126, guid: 9baadae23d1d456468f492249831e865,
+    type: 3}
+  ButtonAsset: {fileID: 9197481963319205126, guid: 5d4bfa73c86375641860fa2c9c924b31,
+    type: 3}
   AvatarModelFbxs:
   - {fileID: 2959467708922500008, guid: cad94995bb6a78846978fb21ad9ccc26, type: 3}
   - {fileID: 2959467708922500008, guid: eb8855708951e4c45b263474ebb8b4e1, type: 3}

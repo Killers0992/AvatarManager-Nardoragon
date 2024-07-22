@@ -1,0 +1,24 @@
+{
+    "name": "AvatarManager.Nardoragon",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3cd1efc31c39f194883d93e5fe31c2ef"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.killers0992.avatarmanager",
+            "expression": "",
+            "define": "AVATAR_MANAGER"
+        }
+    ],
+    "noEngineReferences": false
+}

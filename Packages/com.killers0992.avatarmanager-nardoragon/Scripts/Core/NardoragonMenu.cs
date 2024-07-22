@@ -1,9 +1,11 @@
 using UnityEditor;
+using UnityEngine;
 
 namespace AvatarManager.Core
 {
     public class NardoragonMenu : EditorWindow
     {
+#if AVATAR_MANAGER
         private BaseMenu _menuInstance;
 
         public BaseMenu MenuInstance
@@ -22,24 +24,46 @@ namespace AvatarManager.Core
                 return _menuInstance;
             }
         }
+#endif
 
         [MenuItem("AvatarManager/Open Nardoragon Menu")]
         public static void OpenWindow()
         {
-            GetWindow<NardoragonMenu>();
+            var window = GetWindow<NardoragonMenu>();
+
+#if !AVATAR_MANAGER
+            window.minSize = new Vector2(250f, 60f);
+            window.maxSize = window.minSize;
+#endif
         }
 
         public void OnGUI()
         {
+#if AVATAR_MANAGER
             if (MenuInstance.MenuAssetInstance == null)
                 MenuInstance.OnInitialize(this);
 
             MenuInstance.OnUpdate(this);
+#else
+            GUILayout.Label("Missing dependencies:");
+            GUILayout.Label(" - AvatarManager");
+            if (GUILayout.Button("Install"))
+            {
+                Install();
+            }
+#endif
+        }
+
+        void Install()
+        {
+            Application.OpenURL("https://avatarmanager.killers.dev/install");
         }
 
         public void CreateGUI()
         {
+#if AVATAR_MANAGER
             MenuInstance.OnCreateGUI(this);
+#endif
         }
     }
 }
