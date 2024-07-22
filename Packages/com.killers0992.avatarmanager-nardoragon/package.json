@@ -14,6 +14,6 @@
     "com.unity.editorcoroutines": "1.0.0"
   },
   "gitDependencies": {
-    "com.killers0992.avatarmanager": "https://github.com/Killers0992/AvatarManager?path=/Packages/com.killers0992.avatar-manager#1.0.0"
+    "com.killers0992.avatarmanager": "https://github.com/Killers0992/AvatarManager?path=/Packages/com.killers0992.avatarmanager#1.0.0"
   }
 }
