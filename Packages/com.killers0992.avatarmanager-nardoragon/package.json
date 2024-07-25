@@ -11,7 +11,7 @@
     "url": "https://killers.dev"
   },
   "vpmDependencies": {
-    "com.killers0992.avatarmanager": "1.0.0"
+    "com.killers0992.avatarmanager": "1.0.1"
   },
   "dependencies": {
     "com.unity.editorcoroutines": "1.0.0"
