@@ -2,7 +2,7 @@
     "name": "AvatarManager.Nardoragon",
     "rootNamespace": "",
     "references": [
-        "GUID:3cd1efc31c39f194883d93e5fe31c2ef"
+        "AvatarManager.Core"
     ],
     "includePlatforms": [
         "Editor"
