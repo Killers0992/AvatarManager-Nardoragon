@@ -11,6 +11,9 @@
     },
     "com.poiyomi.toon": {
       "version": "9.0.57"
+    },
+    "com.killers0992.avatarmanager": {
+      "version": "1.0.0"
     }
   },
   "locked": {
@@ -30,6 +33,10 @@
     },
     "com.poiyomi.toon": {
       "version": "9.0.57",
+      "dependencies": {}
+    },
+    "com.killers0992.avatarmanager": {
+      "version": "1.0.0",
       "dependencies": {}
     }
   }

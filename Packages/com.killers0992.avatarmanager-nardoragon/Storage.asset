@@ -217,6 +217,995 @@ MonoBehaviour:
     IntialPosition: {x: 0, y: 0, z: 0}
     IntialRotation: {x: 0, y: 0, z: 0}
     Object: {fileID: 0}
+  - Name: Baroque Outfit
+    Type: 2
+    Location: 0
+    Category: Clothing
+    Author: Bondutopia
+    WebsiteUrl: https://bondutopia.gumroad.com/l/txjpq
+    Icon: {fileID: 2800000, guid: ef9c66e612ab08345b709392367b8340, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: 4 Ears
+    Type: 2
+    Location: 0
+    Category: Body Parts
+    Author: jojothka123
+    WebsiteUrl: https://discord.com/channels/821214188479184896/1213932732795723826/1213932732795723826
+    Icon: {fileID: 2800000, guid: 278bb1a0af0e1694f8f277a4600193b4, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Eisenwolf Combat Armor
+    Type: 2
+    Location: 0
+    Category: Clothing
+    Author: Process of Elimination
+    WebsiteUrl: https://darksideralex.gumroad.com/l/tddci
+    Icon: {fileID: 2800000, guid: 6b449a2e01c596f40b894f706c253cec, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Fluffy Jacket
+    Type: 2
+    Location: 0
+    Category: Clothing
+    Author: LunarArray
+    WebsiteUrl: https://lunararray.gumroad.com/l/FluffyJacketNardo
+    Icon: {fileID: 2800000, guid: 81e42ea6a01d52a45a9164785224196a, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Comfy Pants
+    Type: 2
+    Location: 0
+    Category: Clothing
+    Author: Ignesous
+    WebsiteUrl: https://ignesous.gumroad.com/l/ComfyPantsForNardo
+    Icon: {fileID: 2800000, guid: b79b1f154c347bc4085fc5334210f192, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: LionGod
+    Type: 2
+    Location: 0
+    Category: Texture
+    Author: '*Snow*'
+    WebsiteUrl: https://snowisntreal.gumroad.com/l/biyxmj
+    Icon: {fileID: 2800000, guid: 94cba80c93d551740b77ef872d3b8829, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Hoodie
+    Type: 2
+    Location: 0
+    Category: Clothing
+    Author: Morghus
+    WebsiteUrl: https://morghus.gumroad.com/l/ncouq
+    Icon: {fileID: 2800000, guid: 404c449e09f9b8f469d796621a08f959, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Shiny Cosmetics
+    Type: 2
+    Location: 0
+    Category: Sets
+    Author: Tav
+    WebsiteUrl: https://tavvytav.gumroad.com/l/nardoragon-shiny-cosmetics
+    Icon: {fileID: 2800000, guid: 66f4eb8f7cc9c614b9b995d33f9dff82, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Stylized Zebra
+    Type: 2
+    Location: 0
+    Category: Texture
+    Author: RazzCorgi
+    WebsiteUrl: https://razzcorgi.gumroad.com/l/ZebraNardo
+    Icon: {fileID: 2800000, guid: 92707d9e35d70a647866a0813e32f69c, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Bloom Swimsuit
+    Type: 2
+    Location: 0
+    Category: Clothing
+    Author: SlushyOtter
+    WebsiteUrl: https://slushyotter.gumroad.com/l/iacyjl
+    Icon: {fileID: 2800000, guid: 5cd7fbb47c80d304b91aeff7f4d9ff10, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Oversized Shirt
+    Type: 2
+    Location: 0
+    Category: Clothing
+    Author: Loco
+    WebsiteUrl: https://loco420.gumroad.com/l/novaoversized
+    Icon: {fileID: 2800000, guid: 59b8d5dd59f4fb44886ba0b03653df6a, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Viral outfit
+    Type: 2
+    Location: 0
+    Category: Texture
+    Author: Mellon
+    WebsiteUrl: https://discord.com/channels/821214188479184896/1262688322548137995/1262688322548137995
+    Icon: {fileID: 2800000, guid: 3defe1205c0fc3247867283d739069b5, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Cheese Slap
+    Type: 2
+    Location: 0
+    Category: Accessory
+    Author: Ignesous
+    WebsiteUrl: https://ignesous.gumroad.com/l/CheeseForNardo
+    Icon: {fileID: 2800000, guid: ffda11c6d8cc6ce489f65844654477ea, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Tight Pants
+    Type: 2
+    Location: 0
+    Category: Clothing
+    Author: Ignesous
+    WebsiteUrl: https://ignesous.gumroad.com/l/nardoragonPants
+    Icon: {fileID: 2800000, guid: 69e5a8db9cf9d984ab7cd579a0596f6a, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Outfit
+    Type: 2
+    Location: 0
+    Category: Clothing
+    Author: Loco
+    WebsiteUrl: https://loco420.gumroad.com/l/RR
+    Icon: {fileID: 2800000, guid: 456ba7ff2b88aea43b3443328d91bba2, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Asian Techwear V5
+    Type: 2
+    Location: 0
+    Category: Clothing
+    Author: Loco
+    WebsiteUrl: https://loco420.gumroad.com/l/tw5
+    Icon: {fileID: 2800000, guid: e5b170a02217a4c46af7e13fed2b3e1e, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Kingdom hearts Coat
+    Type: 2
+    Location: 0
+    Category: Clothing
+    Author: PhoEnixNikky
+    WebsiteUrl: https://phoenixnikky.gumroad.com/l/KH_Coat
+    Icon: {fileID: 2800000, guid: 89428ce623f297147ac653adaadb4c30, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Killer queen Suit
+    Type: 2
+    Location: 0
+    Category: Clothing
+    Author: Erebus Industries
+    WebsiteUrl: https://erebusindustries.gumroad.com/l/Killer-suit
+    Icon: {fileID: 2800000, guid: 0653cbd8a52da2e4e97ac96e96d51c53, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Knit Warmers
+    Type: 2
+    Location: 0
+    Category: Clothing
+    Author: Krunk
+    WebsiteUrl: https://krunklehorn.gumroad.com/l/KnitWarmers
+    Icon: {fileID: 2800000, guid: 5c71a044777429f4ab33c30c3bbad02c, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Nardo Pooltoy Pack
+    Type: 2
+    Location: 0
+    Category: Sets
+    Author: Icyvarix
+    WebsiteUrl: https://icyvarix.gumroad.com/l/completepooltoynardopack
+    Icon: {fileID: 2800000, guid: 564536460894c5f49a88afa5a17fc428, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Talhar Thief Armor
+    Type: 2
+    Location: 0
+    Category: Clothing
+    Author: Process of Elimination
+    WebsiteUrl: https://darksideralex.gumroad.com/l/qjnlh
+    Icon: {fileID: 2800000, guid: 9a6f448235366384fafc44a50fe9a16b, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Furbrush
+    Type: 2
+    Location: 0
+    Category: Texture
+    Author: Nadaro
+    WebsiteUrl: https://nadaro.gumroad.com/l/qtzmwp
+    Icon: {fileID: 2800000, guid: 744718ccbf22ec747add726148651bb9, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Wings
+    Type: 2
+    Location: 0
+    Category: Body Parts
+    Author: Morghus
+    WebsiteUrl: https://morghus.gumroad.com/l/nardowings
+    Icon: {fileID: 2800000, guid: 336adf88c618c614e80c1f098836faf2, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Mantis Blades
+    Type: 2
+    Location: 0
+    Category: Body Parts
+    Author: Sir.Custard
+    WebsiteUrl: https://sircustard.gumroad.com/l/ykxue
+    Icon: {fileID: 2800000, guid: 52af9ec961bb38843b4703920234135d, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Gloves pack
+    Type: 2
+    Location: 0
+    Category: Sets
+    Author: Frosty
+    WebsiteUrl: https://frostywuff.gumroad.com/l/GlovesNardo
+    Icon: {fileID: 2800000, guid: 5b58c355688bda54fbe5b0a7f23a7a11, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Fighter Pilot Equipment
+    Type: 2
+    Location: 0
+    Category: Sets
+    Author: BurnsToShine
+    WebsiteUrl: https://burnstoshine.gumroad.com/l/flight
+    Icon: {fileID: 2800000, guid: c493866397a63cf4992d2c46b6a5d33a, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: StreetFit
+    Type: 2
+    Location: 0
+    Category: Clothing
+    Author: Loco
+    WebsiteUrl: https://loco420.gumroad.com/l/streetwear
+    Icon: {fileID: 2800000, guid: a691aa395a96d5146af8e0f20d6b27f6, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: SummerWear
+    Type: 2
+    Location: 0
+    Category: Clothing
+    Author: Loco
+    WebsiteUrl: https://loco420.gumroad.com/l/summerwear
+    Icon: {fileID: 2800000, guid: 09b0544901ed14b44b4578c323c18b08, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Sci-Fi/Tech Visor
+    Type: 2
+    Location: 0
+    Category: Accessory
+    Author: Akeloes
+    WebsiteUrl: https://akeloes.gumroad.com/l/oglxa
+    Icon: {fileID: 2800000, guid: 029b61a4c55ee6a4e863e2692580d1be, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Pride Texture collection
+    Type: 2
+    Location: 0
+    Category: Texture
+    Author: Melonite
+    WebsiteUrl: https://melonite.gumroad.com/l/qcoixb
+    Icon: {fileID: 2800000, guid: 76f0948637353fb49ba83e88138ff5da, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Winterbreeze
+    Type: 2
+    Location: 0
+    Category: Texture
+    Author: floofymoth
+    WebsiteUrl: https://floofymoth.gumroad.com/l/WinterbreezeTexture
+    Icon: {fileID: 2800000, guid: 7eb8204dd6780af4fac6c51208e40933, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Wrapped Bikini
+    Type: 2
+    Location: 0
+    Category: Clothing
+    Author: Krunk
+    WebsiteUrl: https://krunklehorn.gumroad.com/l/WrappedBikiniNardoragon
+    Icon: {fileID: 2800000, guid: 124cc4291acbc1a4eb20e9ca716e0a52, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Furality Outfit
+    Type: 2
+    Location: 0
+    Category: Sets
+    Author: Comphy Appearal
+    WebsiteUrl: https://comphyappearal.gumroad.com/l/CAFuralityUmbra
+    Icon: {fileID: 2800000, guid: 1423a9267f298ee4f97752085410c3fe, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: SwimSuit
+    Type: 2
+    Location: 0
+    Category: Clothing
+    Author: Waffle Juice
+    WebsiteUrl: https://wafflejuice.gumroad.com/l/swimsuitnardo
+    Icon: {fileID: 2800000, guid: d21df4a9e04596947ad4fbc7117c73e8, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: High Top Sneakers
+    Type: 2
+    Location: 0
+    Category: Foot Wear
+    Author: Frosty
+    WebsiteUrl: https://frostywuff.gumroad.com/l/ekdmu
+    Icon: {fileID: 2800000, guid: 06ee8d0db2b5c9842b6d17e8ff6dc979, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Fish tail fluff
+    Type: 2
+    Location: 0
+    Category: Body Parts
+    Author: Erythrina
+    WebsiteUrl: https://erythrina.gumroad.com/l/nardofishtailfluf
+    Icon: {fileID: 2800000, guid: b5520d30d645b534f94ac7b7deb38034, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Avazi Strider
+    Type: 2
+    Location: 0
+    Category: Clothing
+    Author: Process of Elimination
+    WebsiteUrl: https://darksideralex.gumroad.com/l/aadsn
+    Icon: {fileID: 2800000, guid: b7535af5d60c67c4d92c02fd6599df13, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Fluffy Fur
+    Type: 2
+    Location: 0
+    Category: Hair
+    Author: LunarArray
+    WebsiteUrl: https://lunararray.gumroad.com/l/FluffyFur
+    Icon: {fileID: 2800000, guid: 9a2834314c300244ca7bf798d71433f7, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: "F\xF6rgylld drake"
+    Type: 2
+    Location: 0
+    Category: Texture
+    Author: ChocolateCoffee
+    WebsiteUrl: https://chocolatecoffee.gumroad.com/l/GildedDragonNardo
+    Icon: {fileID: 2800000, guid: 5c29c293dc05c2e44a2ce90cce296706, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Autumn Hart
+    Type: 2
+    Location: 0
+    Category: Texture
+    Author: Erythrina
+    WebsiteUrl: https://erythrina.gumroad.com/l/AutumnHart
+    Icon: {fileID: 2800000, guid: d405cfc7b1dead048a57618f5374c68a, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Cybernetic Wings
+    Type: 2
+    Location: 0
+    Category: Body Parts
+    Author: Sir.Custard
+    WebsiteUrl: https://sircustard.gumroad.com/l/zldio
+    Icon: {fileID: 2800000, guid: c0af1944400b3254eb51c159e5fccdfc, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Grinning Mask
+    Type: 2
+    Location: 0
+    Category: Masks
+    Author: Sir.Custard
+    WebsiteUrl: https://sircustard.gumroad.com/l/ryryxc
+    Icon: {fileID: 2800000, guid: 9ee25b682b741404a8d71d1cf10e3785, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
+  - Name: Nard-B
+    Type: 2
+    Location: 0
+    Category: Texture
+    Author: Erythrina
+    WebsiteUrl: https://erythrina.gumroad.com/l/Nardbtexture
+    Icon: {fileID: 2800000, guid: a4ebea6a0e732004eaa12ce5e03e5dd2, type: 3}
+    RequiresVrcSdk: 0
+    IsKit: 0
+    KitPrefab: {fileID: 0}
+    WhitelistedObjects: []
+    Animator: {fileID: 0}
+    MenuPath: 
+    Menu: {fileID: 0}
+    Mesh: {fileID: 0}
+    Materials: []
+    AttachToBone: 
+    BoneTranslations: []
+    DefaultBlendshapes: []
+    Blendshapes: []
+    IntialPosition: {x: 0, y: 0, z: 0}
+    IntialRotation: {x: 0, y: 0, z: 0}
+    Object: {fileID: 0}
   Customizations:
   - Name: Hide Eyebrows
     Category: Eyes
