@@ -4,7 +4,7 @@
 # Avatar Manager - Nardoragon
 
 <p align="center">
-<b><a href="https://avatarmanager.killers.dev/install">Add to VCC</a></b>
+<b><a href="https://killers0992.github.io/avatarmanager-listing">Add to VCC</a></b>
 </p>
 
 
@@ -15,4 +15,4 @@ Features
  - Synchronzized blendshapes on entire avatar means changing for example hips size of avatar will change Hips size on clothing Mesh Renderer.
  - Installing accessories like clothing/fluff via one click.
 
-Hosted under [Avatar Manager](https://github.com/Killers0992/AvatarManager)
+Hosted under [Avatar Manager](https://github.com/Killers0992/AvatarManager-Listing)
